@@ -1,0 +1,6 @@
+[submodule "src/wheeled_mpc_ros"]
+	path = src/wheeled_mpc_ros
+	url = git@github.com:Tipriest/wheeled_mpc_ros.git
+[submodule "src/servingbot"]
+	path = src/servingbot
+	url = git@github.com:Tipriest/servingbot.git
