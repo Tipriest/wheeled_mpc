@@ -4,3 +4,6 @@
 [submodule "src/servingbot"]
 	path = src/servingbot
 	url = git@github.com:Tipriest/servingbot.git
+[submodule "src/ros_tools"]
+	path = src/ros_tools
+	url = git@github.com:Tipriest/ros_tools.git
