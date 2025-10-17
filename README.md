@@ -55,15 +55,14 @@ Please refer the two Blogs [Blog1](https://blog.csdn.net/weixin_42277529/article
 
 ```bash
   cd ~/Documents
-  git clone https://github.com/Tipriest/wheeled_mpc_ros.git
+  git clone https://github.com/Tipriest/wheeled_mpc.git
   git submodule update --init --recursive
 ```
 
 ## 编译
 
 ```bash
-# for fast_lio
-# go back to legged_localization_benchmark ws
+cd ~/Documents/wheeled_mpc
 catkin build
 ```
 
