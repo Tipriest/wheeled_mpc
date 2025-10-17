@@ -35,6 +35,7 @@
 3. Install ROS dependencies and other Nonlinear Solver dependencies
 
 ```bash
+  sudo apt-get install libpcap-dev
   sudo apt install ros-noetic-costmap-2d \
   ros-noetic-move-base \
   ros-noetic-global-planner \
