@@ -38,8 +38,9 @@
   sudo apt install ros-noetic-costmap-2d \
   ros-noetic-move-base \
   ros-noetic-global-planner \
-  ros-noetic-amcl
-  ros-noetic-ackermann-msgs
+  ros-noetic-amcl \
+  ros-noetic-ackermann-msgs \
+  ros-noetic-turtlebot3-msgs
 
   # install livox_sdk
   cd ~/Downloads
