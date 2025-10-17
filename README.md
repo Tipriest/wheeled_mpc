@@ -56,6 +56,7 @@ Please refer the two Blogs [Blog1](https://blog.csdn.net/weixin_42277529/article
 ```bash
   cd ~/Documents
   git clone https://github.com/Tipriest/wheeled_mpc.git
+  cd ./wheeled_mpc
   git submodule update --init --recursive
 ```
 
