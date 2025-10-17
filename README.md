@@ -37,6 +37,7 @@
 ```bash
   sudo apt-get install libpcap-dev
   sudo apt install ros-noetic-costmap-2d \
+  ros-noetic-map-server \
   ros-noetic-move-base \
   ros-noetic-global-planner \
   ros-noetic-amcl \
